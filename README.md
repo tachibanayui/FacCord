@@ -4,8 +4,8 @@ Factory game in discord
 This project is no longer maintained, because oh well ... Discord rate limit is not good enough for interactive game. 
 
 Some images
-[Imgur](https://i.imgur.com/6J9ZNif.png)
+<img src='https://i.imgur.com/6J9ZNif.png'> </img>
 
-[Imgur](https://i.imgur.com/nbqRaWA.png)
+<img src='https://i.imgur.com/nbqRaWA.png'></img>
 
-[Imgur](https://i.imgur.com/oKWcdmD.png)
+<img src='https://i.imgur.com/oKWcdmD.png'></img>
