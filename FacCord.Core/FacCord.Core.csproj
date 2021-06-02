@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>IsekaiTechnologies.FacCord.Core</RootNamespace>
+    
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FacCord.Core.Models\FacCord.Core.Models.csproj" />
+    <ProjectReference Include="..\FacCord.DAL\FacCord.DAL.csproj" />
+  </ItemGroup>
+  
+</Project>
